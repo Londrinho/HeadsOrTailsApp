@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Heads Or Tails App</string>
+    <string name="flip">FLIP COIN</string>
+    <string name="press_the_button_to_flip_the_coin">PRESS THE BUTTON TO FLIP THE COIN</string>
+</resources>
